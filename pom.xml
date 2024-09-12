@@ -31,12 +31,12 @@
                 <repository>
                   <id>vaadin</id>
                   <layout>p2</layout>
-                  <url>http://vaadin.com/eclipse</url>
+                  <url>https://vaadin.com/eclipse/internal/core</url>
                 </repository>
                 <repository>
                   <id>ivyde</id>
                   <layout>p2</layout>
-                  <url>http://www.apache.org/dist/ant/ivyde/updatesite/</url>
+                  <url>https://archive.apache.org/dist/ant/ivyde/updatesite/</url>
                 </repository>
               </source>
 
